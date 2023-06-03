@@ -1,0 +1,15 @@
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/bin/Debug/net6.0/comanda-backend.Data.deps.json
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/bin/Debug/net6.0/comanda-backend.Data.dll
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/bin/Debug/net6.0/comanda-backend.Data.pdb
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/bin/Debug/net6.0/comanda-backend.Domain.dll
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/bin/Debug/net6.0/comanda-backend.Domain.pdb
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.csproj.AssemblyReference.cache
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.AssemblyInfoInputs.cache
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.AssemblyInfo.cs
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.csproj.CoreCompileInputs.cache
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.csproj.CopyComplete
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.dll
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/refint/comanda-backend.Data.dll
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/comanda-backend.Data.pdb
+/Users/joselucasfernandesesbellute/Projects/comanda-backend/comanda-backend.Data/obj/Debug/net6.0/ref/comanda-backend.Data.dll
