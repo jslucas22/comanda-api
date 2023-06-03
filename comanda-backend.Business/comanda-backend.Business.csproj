@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>comanda_backend.Business</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Abstractions\" />
+    <None Remove="Services\Products\" />
+    <None Remove="Services\Abstractions\Products\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Abstractions\" />
+    <Folder Include="Services\Products\" />
+    <Folder Include="Services\Abstractions\Products\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\comanda-backend.Domain\comanda-backend.Domain.csproj" />
+    <ProjectReference Include="..\comanda-backend.Data\comanda-backend.Data.csproj" />
+  </ItemGroup>
+</Project>
